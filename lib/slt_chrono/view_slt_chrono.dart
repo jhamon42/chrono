@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 
-class Chrono extends StatelessWidget {
+class SltChrono extends StatelessWidget {
 	@override
 	Widget build(context) {
  		return Container();
